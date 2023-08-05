@@ -135,9 +135,6 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <Sequence DisplayName="Proceso Completo" sap:VirtualizedContainerService.HintSize="1208,8297" sap2010:WorkflowViewState.IdRef="Sequence_151">
-        <Sequence.Variables>
-          <Variable x:TypeArguments="x:String" Name="UbicacionaGuardar" />
-        </Sequence.Variables>
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
